@@ -22,5 +22,5 @@ Pod::Spec.new do |s|
   # pod 'React', :path => '../node_modules/react-native/'
 
   # The Native OneSignal-iOS-SDK from cocoapods.
-  s.dependency 'OneSignal'
+  s.dependency 'Paystack'
 end
