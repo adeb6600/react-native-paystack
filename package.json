@@ -3,17 +3,17 @@
   "description": "React Native Wrappers for Paystack Android & iOS Mobile SDKs",
   "main": "index.js",
   "author": "Tolu Olowu (Arttitude 360) <tolu@arttitude360.com>",
-  "version": "3.3.0",
+  "version": "3.3.1",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/tolu360/react-native-paystack"
+    "url": "https://github.com/adeb6600/react-native-paystack"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tolu360/react-native-paystack/issues"
+    "url": "https://github.com/adeb6600/react-native-paystack/issues"
   },
-  "homepage": "https://github.com/tolu360/react-native-paystack#readme",
+  "homepage": "https://github.com/adeb6600/react-native-paystack#readme",
   "keywords": [
     "react",
     "react-native",
